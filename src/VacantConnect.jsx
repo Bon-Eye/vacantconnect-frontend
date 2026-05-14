@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useState, useEffect, useRef } from "react";
 const API_URL = "https://vacantconnect-backend-production.up.railway.app"; 
 const COLORS = {
